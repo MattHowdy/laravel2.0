@@ -2,7 +2,7 @@
 use App\Notifications\SubscriptionRenewalFailed;
 use App\User;
 use Illuminate\Http\Request;
-
+  
 /*
 |--------------------------------------------------------------------------
 | Web Routes
